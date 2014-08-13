@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DropBox</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_text_file">DropBox</string>
+    <string name="title_activity_two_steps">DropBox</string>
+
+</resources>

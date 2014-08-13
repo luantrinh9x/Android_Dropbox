@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+      
+    <item
+        android:id="@+id/gridViewOpt"
+        android:title="Grid View"/>
+    <item
+        android:id="@+id/listViewOpt"
+        android:title="List View"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"/>
+      
+    <item
+        android:id="@+id/menuAB"
+        android:icon="@drawable/menu"
+        android:showAsAction="always"
+        android:title="Menu">
+        <menu>
+            <item
+                android:id="@+id/uploadAB"
+                android:icon="@drawable/upload"
+                android:title="Upload"/>
+            <item
+                android:id="@+id/undoAB"
+                android:icon="@drawable/undo"
+                android:title="Undo"/>
+            <item
+                android:id="@+id/pasteAB"
+                android:icon="@drawable/paste"
+                android:title="Paste"/>
+        </menu>
+    </item>
+
+</menu>
